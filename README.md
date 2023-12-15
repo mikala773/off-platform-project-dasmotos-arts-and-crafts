@@ -6,6 +6,7 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 
 Welcome to the Off-Platform Project: Dasmoto's Arts & Crafts, created as part of the Codecademy curriculum for the Full-Stack Engineering Path. 
 This project focuses on building a simple website for a fictional arts and crafts store. I was not given much guidance, instead I was expected to use Codecademy, the internet, and any other resources I needed.
+This was one of the first projects I completed.
 
 I was required to create a folder structure that made sense, an HTML file, and a CSS file.
 
@@ -24,7 +25,7 @@ I was required to create a folder structure that made sense, an HTML file, and a
 
 ## Visit Site
 
-----
+https://mikala773.github.io/off-platform-project-dasmotos-arts-and-crafts/
 
 ## Contact
 
