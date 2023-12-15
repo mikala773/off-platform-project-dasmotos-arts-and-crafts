@@ -12,8 +12,7 @@ I was required to create a folder structure that made sense, an HTML file, and a
 
 ## Design Spec
 
-----
-
+https://mikala773.github.io/off-platform-project-dasmotos-arts-and-crafts/designspec_dasmotos-arts_redline.jpg 
 
 ## Status
 - Complete
